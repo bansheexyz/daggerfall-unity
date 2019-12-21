@@ -34,19 +34,19 @@ QuestFail:  [1003]
 <ce>                        by now anyhow. Too bad.
 
 QuestComplete:  [1004]
-<ce>                Good job, Loup-killer. Enjoy yer gold.
+<ce>                Good job, loup-killer. Enjoy yer gold.
 
 RumorsDuringQuest:  [1005]
 I've heard there's some kind of werewolf on the loose around here.
 <--->
-I hear the wereboar's found a lair in someplace called ___mondung_.
+I hear the wereboar's found a lair in some place called ___mondung_.
 <--->
 Didja hear that howling last night? Wolf howling?
 
 RumorsPostfailure:  [1006]
 Werewolves are real nomads, I guess. I hear our loup moved down south.
 <--->
-My cousin tells me that our wereboar was spotted down south aways.
+My cousin tells me that our wereboar was spotted down south a ways.
 
 RumorsPostsuccess:  [1007]
 I hear they found out that werething was a priest during the day!
@@ -56,11 +56,11 @@ A lot of people feel safer knowing that werebeast is dead.
 You heard about that werewolf some %ra hunted down?
 
 QuestorPostsuccess:  [1008]
-<ce>           Thanks for taking care of that werecritter %pcf.
+<ce>           Thanks for taking care of that werecritter, %pcf.
 
 QuestorPostfailure:  [1009]
 <ce>                  Get outta here. You're so pathetic.
-<ce>                   You couldn't even handle werewolf.
+<ce>                   You couldn't even handle a werewolf.
 
 Message:  1020
 <ce>                   The lycanthrope threat is ended.
@@ -82,7 +82,7 @@ Message:  1030
 
 Message:  1080
 <ce>                    Here's a map to a place called
-<ce>                     ___newdung_.  All the killing
+<ce>                     ___newdung_. All the killing
 <ce>                      and treasure you can handle.
 <ce>                          Knock yourself out.
 
