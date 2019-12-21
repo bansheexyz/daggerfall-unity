@@ -12,15 +12,15 @@ DisplayName: Unwanted Houseguest
 QRC:
 
 QuestorOffer:  [1000]
-<ce>                 Every once in a while we get an idiot
+<ce>                Every once in a while, we get an idiot
 <ce>                 like this client. Some fool left his
 <ce>               back door open and a wild animal got in.
 <ce>                He seems rather confused as to whether
 <ce>                it is a bear or a tiger, but in either
 <ce>                  case, it wanted to eat him. We need
-<ce>                  you to go and slay the animal. You
+<ce>                  you to go and slay the animal. Your
 <ce>                     standard fee is _gold_ gold.
-<ce>                         Want to take it %pcn?
+<ce>                         Want to take it, %pcn?
 
 RefuseQuest:  [1001]
 <ce>                  Gotcha. Let the tiger have him. The
@@ -33,7 +33,7 @@ AcceptQuest:  [1002]
 <ce>                  days to kill it and get back to me.
 
 QuestComplete:  [1004]
-<ce>                        No great difficulties I
+<ce>                        No great difficulties, I
 <ce>                      trust? Thought not. Here's
 <ce>                           your _gold_ gold.
 
@@ -63,7 +63,7 @@ QuestLogEntry:  [1010]
  me the job of killing a tiger or bear
  that got into _house_
  in __house_. If I get back
- to him within =2dung_ days I get
+ to him within =2dung_ days, I get
  _gold_ gold pieces.
 
 Message:  1011
