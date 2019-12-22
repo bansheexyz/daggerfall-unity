@@ -21,7 +21,7 @@ RefuseQuest:  [1001]
 <ce>                %oth, I had expected much more of you.
 
 AcceptQuest:  [1002]
-<ce>               An old friend of mine is in grave danger,
+<ce>               An old friend of mine is in grave danger
 <ce>                and needs an escort who is handy with a
 <ce>                blade and can keep a secret. Naturally,
 <ce>                    I thought of you. _target_ will
@@ -45,11 +45,11 @@ RumorsDuringQuest:  [1005]
 
 RumorsPostfailure:  [1006]
 <ce>      Did you hear about that ambush in __targethouse_? An agent
-<ce>                 of the Queen of Sentinel was killed.
+<ce>                 of the queen of Sentinel was killed.
 
 RumorsPostsuccess:  [1007]
 <ce>    It seems that one of the court nobles of Sentinel was plotting
-<ce>     against the throne, but the Queen found out and destroyed his
+<ce>     against the throne, but the queen found out and destroyed his
 <ce>                      fortress at ___stronghold_.
                                      <--->
 <ce>       _ruler_'s forces attacked ___stronghold_, but I hear that
@@ -73,12 +73,12 @@ Message:  1020
 
 Message:  1021
 %qdt:
- I met with _target_, and
+ I met with _target_ and
  we are proceeding to Sentinel.
 
 Message:  1022
 %qdt:
- I was ambushed leaving _targethouse_,
+ I was ambushed leaving _targethouse_
  and _target_ was killed. Before
  %g died, however, %g slipped me a letter
  exposing _traitor_, a member of
@@ -93,7 +93,7 @@ Message:  1023
  letter, but _traitor_ had
  already fled to %g3 fortress
  of ___stronghold_.
- The Queen asked me to infiltrate
+ The queen asked me to infiltrate
  the fortress and capture or kill
  _traitor_. She gave me =gettraitor_
  days to accomplish this mission
@@ -103,7 +103,7 @@ Message:  1030
 Dear %pcn,
  
  Change of plans. _questgiver_
- had to leave town quickly, and asked
+ had to leave town quickly and asked
  me to meet you in _tavern_.
  Please come at once. The matter
  is extremely urgent.
@@ -131,7 +131,7 @@ My dear _enemy_,
  have a new ally. Once the situation here
  is proceeding smoothly again, I must return
  to Sentinel to pay my respects (perhaps my
- "final respects"!) to our dear Queen. Her
+ "final respects"!) to our dear queen. Her
  agents have been dogging my steps lately,
  so I shall allay her suspicions by a show of
  fawning subservience which she so appreciates.
@@ -155,7 +155,7 @@ Message:  1040
 <ce>                   about what was going on? I didn't
 <ce>                   think so. Suffice it to say that
 <ce>                    the Necromancers are involved.
-<ce>                Dangerous people to cross, indeed. But,
+<ce>                Dangerous people to cross, indeed, but
 <ce>                 I have an _amulet_ for you which will
 <ce>                warn you if agents of the Necromancers
 <ce>                   are nearby. Should come in handy.
@@ -173,7 +173,7 @@ Message:  1042
 <ce>                     _target_ gasps, and you turn
 <ce>               to see a feathered shaft protruding from
 <ce>                 %g3 chest. As %g sinks to %g3 knees,
-<ce>            %g slips a letter into your hand, and murmurs,
+<ce>            %g slips a letter into your hand and murmurs,
 <ce>                                    
 <ce>                 "_traitor_ is a traitor to Sentinel.
 <ce>                    You must get this to _ruler_."
@@ -195,12 +195,12 @@ Message:  1050
 Message:  1051
 <ce>                 "Yes? What's this letter? Dear %god,
 <ce>                  _traitor_ is plotting against me?!
-<ce>                Guards! Search the Castle for _traitor_
+<ce>                Guards! Search the castle for _traitor_
 <ce>                     and bring him to me at once."
 <ce>                                    
 <ce>                Several guards run from the room. A few
-<ce>             minutes later one returns. With a salute, he
-<ce>            reports that _traitor_ is nowhere to be found.
+<ce>             minutes later, one returns. With a salute, he
+<ce>             reports that _traitor_ is nowhere to be found.
 <ce>                                    
 <ce>                         _ruler_ turns to you:
 <ce>                                    
@@ -216,7 +216,7 @@ Message:  1052
 <ce>                %pcn, you are proving most loyal to the
 <ce>           throne of Sentinel. I will wait =gettraitor_ days
 <ce>                before assaulting _traitor_'s fortress.
-<ce>             I hereby proclaim _traitor_ outlaw -- capture
+<ce>              I hereby proclaim _traitor_ outlaw. Capture
 <ce>               him if you can, but kill him if you must.
 
 Message:  1053
@@ -230,14 +230,14 @@ Message:  1054
 <ce>                         This is his personal
 <ce>                          seal and signature.
 <ce>                           Guards! Go to the
-<ce>                         Great Hall and seize
+<ce>                         great hall and seize
 <ce>                          _traitor_ at once,
 <ce>                    and throw him in the dungeon."
 <ce>                                    
 <ce>                           She turns to you.
 
 Message:  1055
-<ce>                 So be it. _traitor_ chose his course,
+<ce>                 So be it. _traitor_ chose his course
 <ce>               and paid the consequences, thanks to you.
 <ce>                  Here is an enchanted _queenreward_
 <ce>                     for your service to Sentinel.
@@ -266,7 +266,7 @@ Message:  1062
 <ce>                 _traitor_ looks at you intently. The
 <ce>               color drains from %g3 face as %g realizes
 <ce>                who you are, and before anyone can stop
-<ce>                 %g2 %g turns and bolts for the door.
+<ce>                 %g2, %g turns and bolts for the door.
 
 Message:  1070
 <ce>                    %ra dog, you will pay for your
