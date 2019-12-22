@@ -18,8 +18,8 @@ QuestorOffer:  [1000]
 <ce>                    than brawn. Are you interested?
 
 RefuseQuest:  [1001]
-<ce>                  Yeah, you're right, I did say this
-<ce>                      job needed brains didn't I?
+<ce>                  Yeah, you're right. I did say this
+<ce>                      job needed brains, didn't I?
 
 AcceptQuest:  [1002]
 <ce>                  Here's the situation. Seems _dummy_
@@ -35,7 +35,7 @@ AcceptQuest:  [1002]
 <ce>               trained too well -- are you surprised? --
 <ce>                so you may have to smack it upside the
 <ce>               head once or twice to get its attention.
-<ce>                Just don't kill it, OK?  Bring it back
+<ce>                Just don't kill it, OK? Bring it back
 <ce>                  to _dummy_ at __dummy_ in one piece
 <ce>                  within =qtime_ days, and %g'll pay
 <ce>                      you _gold_ gold. Good luck.
@@ -57,14 +57,14 @@ QuestComplete:  [1004]
 <ce>                        at the Fighter's Guild.
 
 RumorsDuringQuest:  [1005]
-<ce>     Did you hear that _dummy_'s tiger escaped again?  Killed and
+<ce>     Did you hear that _dummy_'s tiger escaped again? Killed and
 <ce>                      ate three people this time.
 
 RumorsPostfailure:  [1006]
 <ce>    _dummy_'s tiger seems to have disappeared for good. Thank %god!
 
 RumorsPostsuccess:  [1007]
-<ce>     _dummy_ actually hired someone from the Fighter's Guild to go
+<ce>     _dummy_ actually hired someone from the Fighters Guild to go
 <ce>fetch %g3 pet tiger for %g2. What sap would take a silly job like that?
 
 QuestorPostsuccess:  [1008]
@@ -79,7 +79,7 @@ Message:  1020
  I have been hired by ___questgiver_'s
  Fighters Guild to find a pet sabertooth
  tiger that has run off into ___mondung_.
- Supposedly the tiger is trained to respond
+ Supposedly, the tiger is trained to respond
  to a bell I was given, but _questgiver_
  warned me that it may not really be trained
  very well. I am to bring the tiger back
@@ -108,7 +108,7 @@ Message:  1041
 <ce>                      The tiger's ears perk up at
 <ce>                       the sound of the bell. It
 <ce>                    shakes its great head from side
-<ce>                     to side, and begins emitting
+<ce>                      to side and begins emitting
 <ce>                      a low growling sound. Is it
 <ce>                     purring? The tiger pads over
 <ce>                      and rubs against your legs,
@@ -117,12 +117,12 @@ Message:  1041
 <ce>                    The tiger is now following you.
 
 Message:  1050
-<ce>                      You horrible horrible %ra!
+<ce>                      You horrible, horrible %ra!
 <ce>                     I can't believe you killed my
 <ce>                      poor innocent =tiger_. Just
-<ce>                      a sweet lost kitty, and you
+<ce>                      a sweet lost kitty and you
 <ce>                       just had to slaughter it.
-<ce>                       Get out of here at once,
+<ce>                        Get out of here at once
 <ce>                      before I have you arrested
 <ce>                         for murder. Get out!
 
@@ -136,7 +136,7 @@ Dear _love_,
  I am sitting here under a tree, on a
  beautiful afternoon that reminds me
  of you. Everything reminds me of you,
- my darling, the shining sun in the sky,
+ my darling: the shining sun in the sky,
  the chirping birds in the trees, even
  the pretty pet tiger walking with its
  owner over there. Ha ha! The tiger has
@@ -149,13 +149,13 @@ Dear _love_,
  enough, here it comes to say hello...
 
 Message:  1061
-<ce>                   Yes, what do you want?  Oh...good
+<ce>                   Yes, what do you want? Oh... good
 <ce>                   gracious, a letter from _victim_!
 <ce>                     Why is it stained with blood?
-<ce>                    %g's dead?  Dear me. %g always
-<ce>                    was so sweet to me, I'm afraid
+<ce>                    %g's dead? Dear me. %g always
+<ce>                    was so sweet to me. I'm afraid
 <ce>                   %g had the delusion that we were
-<ce>                   in love. Poor soul, what a tragic
+<ce>                   in love. Poor soul... what a tragic
 <ce>                    end. I certainly appreciate you
 <ce>                    telling me what happened. I'll
 <ce>                   make sure %g3 family knows. Here,
